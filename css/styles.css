@@ -136,7 +136,7 @@ figcaption {
 
 #info ul {
   margin-left: 10%;
-  
+
 }
 
 #contact p{
@@ -272,12 +272,19 @@ footer a {
     border-collapse: collapse;
   }
 
-  #table {
+  .table {
     background-color: #E8E8E8;
   }
 
-  #table p{
+  .table p{
     text-align: center;
+  }
+
+   /* Style rules for micro-certification table */
+  #table2 {
+    background-color: #E8E8E8;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   caption{
@@ -351,6 +358,18 @@ footer a {
     grid-template-columns: auto auto;
     grid-gap: 30px;
   }
+
+     /* Style rules for micro-certification table */
+
+     #table2 {
+      background-color: #E8E8E8;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    #table2 p{
+      text-align: center;
+    }
 
 }
 
