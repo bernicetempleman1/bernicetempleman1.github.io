@@ -359,18 +359,6 @@ footer a {
     grid-gap: 30px;
   }
 
-     /* Style rules for micro-certification table */
-
-     #table2 {
-      background-color: #E8E8E8;
-      margin-left: auto;
-      margin-right: auto;
-    }
-
-    #table2 p{
-      text-align: center;
-    }
-
 }
 
 /* Media  Query for Large Desktop Viewports */
